@@ -1,1 +1,1 @@
-# Git Lab
+Welcome to my example respository for Git
